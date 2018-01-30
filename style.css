@@ -1,0 +1,141 @@
+body {
+  background-color: grey;
+}
+
+main {
+  width: 700px;
+  height: 700px;
+  margin: auto;
+}
+
+h1 {
+  position: relative;
+  top: 5px;
+  left: 0px;
+  font-size: 80px;
+  text-decoration: none;
+  color: white;
+}
+
+h2 {
+  padding-left: 21px;
+}
+
+p {
+  margin: 20px;
+  width: 320px;
+  font-size: 18px;
+}
+
+.p1 {
+  width: 650px;
+  font-size: 20px;
+}
+
+input {
+  height: 17px;
+  width: 270px;
+  margin: 12px;
+}
+
+#i2 {
+  margin-top: 23px;
+}
+
+#i3 {
+  margin-top: 7px;
+}
+
+#i4 {
+  margin-top: 6px;
+}
+
+#i6 {
+  margin-top: 25px;
+}
+
+#i7 {
+  margin-top: 6px;
+  margin-bottom: 8px;
+}
+
+
+#i10 {
+  margin-top: 7px;
+}
+
+#i11 {
+  margin-top: 6px;
+}
+
+#i12 {
+  margin-top: 15px;
+  margin-bottom: 21px;
+}
+
+#i14 {
+  margin-top: 9px;
+  margin-bottom: 8px;
+}
+
+#i15 {
+  margin-top: 10px;
+}
+
+.a1 {
+  position: relative;
+  top: 11px;
+  left: 15px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.a2 {
+  position: relative;
+  top: 11px;
+  left: 50px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.a3 {
+
+}
+
+#a4 {
+  position: relative;
+  top: 240px;
+  left: 258px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+nav {
+  background-color: #cc0000;
+  width: 700px;
+  height: 50px;
+}
+
+.container {
+  background-color: white;
+  width: 700px;
+  height: 600px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+aside {
+  position: relative;
+  left: 400px;
+  bottom: 387px;
+  width: 260px;
+}
+
+#a1 {
+  position: relative;
+  left: 400px;
+  bottom: 328px;
+  width: 260px;
+}
