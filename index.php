@@ -47,7 +47,7 @@
          <input id="i6" type="text" name="docent" value="">
          <input id="i7" type="text" name="kopen" value="">
          <input id="i8" type="text" name="bezig" value="">
-         <input type="submit" name="button" value="Versturen">
+         <input class="i16" type="submit" name="button" value="Versturen">
        </aside>
      </form>
 

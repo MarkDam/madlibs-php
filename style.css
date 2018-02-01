@@ -82,6 +82,10 @@ input {
   margin-top: 10px;
 }
 
+.i16 {
+  height: 25px;
+}
+
 .a1 {
   position: relative;
   top: 11px;

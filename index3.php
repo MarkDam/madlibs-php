@@ -45,7 +45,7 @@
          <input id="i13" type="text" name="beste" value="">
          <input id="i14" type="text" name="slechste" value="">
          <input id="i15" type="text" name="ergste" value="">
-         <input type="submit" name="button" value="Versturen">
+         <input class="i16" type="submit" name="button" value="Versturen">
        </aside>
      </form>
 
